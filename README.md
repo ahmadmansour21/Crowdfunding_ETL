@@ -17,7 +17,13 @@ All work for this section was completed independently and with the help of Xpert
 
 # Campaign_Dataframe 
 SECTION 2- CREATE A CAMPAIGN DATAFRAME THAT HAS FOLLOWING COLUMNS - JASLEEN KAUR 
-1) 
+1) Using the rename function to rename columns burb to description, lauched_at to launched_date and deadline to end_date. Print the Campaign_df.
+2) Convert the goal and pledge to a data type to clean the data using astype(float data type). First printing the data as a dataframe. Then print the data as dtypes(data types).
+3) Using the datetime function to format the launch date and end date, in a year/month and date format.
+4) Merging the subcategory and category, category at the right and subcategory at the left.
+5) Using the columns to drop function in a list format, to indicate which columns to drop. And using the iloc function to filter out the first four rows of the dataset. 
+ The campaign database is cleaned and printed as a csv file. 
+
 
 
 
