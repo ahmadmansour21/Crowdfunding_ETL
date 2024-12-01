@@ -15,7 +15,9 @@ All work for this section was completed independently and with the help of Xpert
     This block of code is meant to add "cat" or "subcat" to the numpy arrays to give them more logic than being mere numbers. Uses a list comprehension instead of a for loop as it is more efficient.
 1.7) Finally, using pd.DataFrame and to_csv allows us to use the numpy array as index and (sub)categories data to create the dataframes and export them as csv files.
 
-
+# Campaign_Dataframe 
+SECTION 2- CREATE A CAMPAIGN DATAFRAME THAT HAS FOLLOWING COLUMNS - JASLEEN KAUR 
+1) 
 
 
 
